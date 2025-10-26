@@ -1,0 +1,28 @@
+{
+  "name": "json-api-mock",
+  "version": "1.0.0",
+  "description": "Lightweight mock API server for rapid prototyping",
+  "main": "server.js",
+  "bin": {
+    "json-api-mock": "./server.js"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js 3000"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "server",
+    "rest",
+    "json",
+    "testing",
+    "development"
+  ],
+  "author": "DonkRonk17",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DonkRonk17/json-api-mock"
+  }
+}
