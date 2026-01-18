@@ -141,9 +141,11 @@ Contributions welcome! Feel free to submit PRs.
 
 MIT License
 
-## 👤 Author
+## 🙏 Credits
 
-Created by DonkRonk17
+Created by **Randell Logan Smith and Team Brain** at [Metaphy LLC](https://metaphysicsandcomputing.com)
+
+Part of the HMSS (Heavenly Morning Star System) ecosystem.
 
 ---
 
