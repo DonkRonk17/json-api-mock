@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/31069b11-2c72-4557-8d80-a3c8d4768313" />
+
 # 🚀 JSON API Mock Server
 
 A lightweight, zero-dependency mock API server for rapid prototyping and testing. Get a full REST API running in seconds!
@@ -132,6 +134,9 @@ curl -X DELETE http://localhost:3000/users/3
 ## 📦 No Installation Required
 
 Just Node.js - no npm install needed!
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f91adf13-6e37-4833-ab39-951fdd513c44" />
+
 
 ## 🤝 Contributing
 
